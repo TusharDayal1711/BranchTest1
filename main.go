@@ -8,4 +8,6 @@ func main() {
 	Feat1()
 
 	A1Test()
+	Test1()
+	TestA2()
 }
